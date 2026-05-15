@@ -8,7 +8,7 @@
 * Header / Body [- ]
 
 ## 하늘 
-* HTML / JavaScript 기초 [ ]
+* HTML / JavaScript 기초 [ O ]
   ### HTML - 뼈대
 
 HTML은 HyperText Markup Language의 약자로 마크업 언어이다.
